@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color:pink;
+}
+
+h2 {
+    font-weight: 200;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+button {
+   border-radius: 10px;
+   padding: 20px 20px;
+    color: rgb(134, 5, 255);
+    background-color: rgb(209, 201, 201);
+}
